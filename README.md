@@ -50,4 +50,4 @@ export default tseslint.config({
 ```
 # From Berthiaume Center
 ## 750 dollars investment pending
-### future investment coming soon
+### future investment coming soon! Stay tuned
